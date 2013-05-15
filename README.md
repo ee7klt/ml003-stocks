@@ -1,10 +1,10 @@
 ml003-stocks
-============
-
-Stanford Machine Learning 2013 - Stock Prediction Repository
+================================================
+<h3>Stanford Machine Learning 2013 - Stock Prediction Group Repository</h3>
 
 
 CONTENTS
+================================================
 
 <h3>/Data</h3>
 Contains some CSV data.
