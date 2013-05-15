@@ -3,7 +3,7 @@ ml003-stocks
 <h3>Stanford Machine Learning 2013 - Stock Prediction Group Repository</h3>
 
 
-CONTENTS
+<h2>CONTENTS</h2>
 ================================================
 
 <h3>/Data</h3>
