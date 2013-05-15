@@ -4,7 +4,6 @@ ml003-stocks
 
 
 <h2>CONTENTS</h2>
-================================================
 
 <h3>/Data</h3>
 Contains some CSV data.
