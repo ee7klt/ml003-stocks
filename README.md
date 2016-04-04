@@ -20,6 +20,6 @@ VIX - VOLATILITY S&P500<br>
 
 
 
-<h3>/MLR</h3>
+<h2>/MLR  </h2>
 Multivariate Linear Regression
 
